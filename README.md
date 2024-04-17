@@ -44,7 +44,7 @@
   
 - 💬 Ask me about: **UI, API and Mobile Automation, Automation frameworks**
 
-- ⚡ Fun fact **We have created a secret language. Me and my friends use our kind of spoken code language which only we can encode. It's really funny as only we can understand that and everybody else around is just wondering what are we doing and trying to say.**
+- ⚡ Fun fact: **We have created a secret language. Me and my friends use our kind of spoken code language which only we can encode. It's really funny as only we can understand that and everybody else around is just wondering what are we doing and trying to say.**
   
 - 📫 How to reach me: **prafull.chauvhan@gmail.com**
   
