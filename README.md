@@ -73,7 +73,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://www.buymeacoffee.com/prafullchauvhan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <hr class="divider">
-### 🌐 Check out my website: http://prafullchauvhan.in
+### 🌐 Check out my website: https://prafullchauvhan.in
 
 <hr class="divider">
 
